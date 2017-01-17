@@ -1,6 +1,6 @@
-# boiler-plate-webpack-angularfire2
-The basic repository run with webpack along with angularfire2 beta 7
 
+# Angular2-redux-react
+This app is a boiler plate for connecting an angular2 app with redux and react observable pattern
 
 ## Install npm packages
 Install the npm packages described in the `package.json` and verify that it works:
@@ -10,4 +10,3 @@ npm install
 npm start
 ```
 
-#### Note: You should add your app details of Firebase in appModules.ts
